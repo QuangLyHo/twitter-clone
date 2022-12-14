@@ -6,6 +6,7 @@ Project is part of Scrimba's Frontend Developer Career Path
 
 ## Screenshot
 
+![](twimba-clone.gif)
 
 ## Links
 
